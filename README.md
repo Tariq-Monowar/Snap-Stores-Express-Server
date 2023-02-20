@@ -5,3 +5,4 @@ This is a server-side application built using Express.js for Snap Stores, a fict
 
 ## Client Side Interface
 ![main](https://user-images.githubusercontent.com/101199109/219957170-77b2f27a-1fb5-411b-aff9-7d3c4ddec3c8.png)
+
